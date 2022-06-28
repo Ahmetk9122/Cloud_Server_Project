@@ -1,0 +1,109 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .font {
+    size: 32px;
+    color: #707479;
+    margin-top: 50px;
+  }
+  .first-text {
+    margin-top: 30px;
+  }
+  .second-text {
+    margin-top: -15px;
+    margin-bottom: 55px;
+  }
+  .vote-page {
+    border: 2px solid #F0F7F9;
+    border-radius: 11px;
+    height: 100%;
+    padding: 10px;
+    margin-left: -5px;
+    margin-right: 5px;
+  }
+  .platform-1 {
+    display: contents;
+    text-align: center;
+  }
+  .platform-2 {
+    display: contents;
+    text-align: center;
+  }
+  .platform-linux {
+    height: 60px;
+    width: 45%;
+    border-radius: 5px;
+    float: left;
+    cursor: pointer;
+    text-align: center;
+  }
+  .platform-windows {
+    height: 60px;
+    width: 45%;
+    border-radius: 5px;
+    float: left;
+    cursor: pointer;
+    text-align: center;
+  }
+  .cat {
+    width: 33.3%;
+    float: left;
+    padding: 15px;
+    background-color: #fafafa;
+  }
+  .buy{
+    color: #33CB48;
+  }
+  .vds-property-right{
+    background-color:#FAFAFA;
+    border-radius: 11px;
+    height: 100%;
+    padding: 10px;
+  }
+  .controlPanel{
+    height:70px;
+    width:150px;
+    border:1px solid rgb(0,0,0,0.2);
+    border-radius: 5px;
+  }
+  .accordion-button:not(.collapsed) {
+    color: black;
+    background-color: transparent;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}

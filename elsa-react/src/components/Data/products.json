@@ -1,0 +1,61 @@
+[
+    {
+        "id":1,
+        "name":"Plesk Panel",
+        "price":15
+    },
+
+    {
+        "id":2,
+        "name":"cPanel",
+        "price":15
+    },
+
+    {
+        "id":3,
+        "name":"ownCloud",
+        "price":15
+    },
+
+    {
+        "id":4,
+        "name":"Zimbra",
+        "price":15
+    },
+
+    {
+        "id":5,
+        "name":"SSD Disk",
+        "price":1
+    },
+
+    {
+        "id":6,
+        "name":"Yedekleme Hizmeti",
+        "price":7
+    },
+
+    {
+        "id":7,
+        "name":"IDS-IPS Hizmeti",
+        "price":10
+    },
+
+    {
+        "id":8,
+        "name":"Zimbra",
+        "price":15
+    },
+
+    {
+        "id":9,
+        "name":"Sunucu Yönetim Hizmeti",
+        "price":25
+    },
+    {
+        "id":9,
+        "name":"MSSQL Web Edition",
+        "price":20
+    }
+    
+]
